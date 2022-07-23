@@ -1,0 +1,43 @@
+body {
+  background-color: #F0FFF0;
+}
+
+h2{
+  color: #1E90FF;
+  text-align: center;
+}
+
+h1{
+  color: #1E90FF;
+  text-align: center;
+  font-family: algerian;
+
+
+}
+h3{
+  color: #1E90FF;
+  text-align: center;
+  font-family: algerian;
+}
+p {
+  font-family: algerian;
+  font-size: 20px;
+  color: #1E90FF;
+}
+label{
+  color: #1E90FF;
+  font-family: algerian;
+
+}
+input{
+  color: #1E90FF;
+  font-family: algerian;
+}
+textarea{
+  color: #1E90FF;
+  font-family: algerian;
+}
+li{
+  color: #1E90FF;
+  font-family: algerian;
+}
